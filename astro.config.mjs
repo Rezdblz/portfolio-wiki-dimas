@@ -3,8 +3,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
-  site: 'https://rezdblz.github.io',
-  base: '/portfolio-wiki-dimas',
+  site: 'https://dimasreza.my.id',
   integrations: [
     starlight({
       title: 'Dimas Wiki',
