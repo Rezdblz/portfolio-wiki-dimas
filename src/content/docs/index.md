@@ -6,19 +6,19 @@ hero:
   tagline: My portfolio and working notes as a wiki. Every topic has its own page, linked together and searchable.
   actions:
     - text: Browse projects
-      link: /portfolio-wiki-dimas/projects/
+      link: /projects/
       icon: right-arrow
       variant: primary
     - text: About me
-      link: /portfolio-wiki-dimas/about/
+      link: /about/
       variant: minimal
 ---
 
 ## Start here
 
-- [About](/portfolio-wiki-dimas/about/) — who I am and the map of this wiki
-- [Projects](/portfolio-wiki-dimas/projects/) — things I have built, with the technical notes behind them
-- [Experience](/portfolio-wiki-dimas/experience/) — work, organizations, and education
-- [Skills](/portfolio-wiki-dimas/skills/) — languages, frameworks, and tools
-- [Notes](/portfolio-wiki-dimas/notes/) — loose write-ups and what I am learning
-- [Contact](/portfolio-wiki-dimas/contact/) — how to reach me
+- [About](/about/) — who I am and the map of this wiki
+- [Projects](/projects/) — things I have built, with the technical notes behind them
+- [Experience](/experience/) — work, organizations, and education
+- [Skills](/skills/) — languages, frameworks, and tools
+- [Notes](/notes/) — loose write-ups and what I am learning
+- [Contact](/contact/) — how to reach me

@@ -3,7 +3,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
-  site: 'https://dimasreza.my.id',
+  site: 'https://wiki.dimasreza.my.id',
   integrations: [
     starlight({
       title: 'Dimas Wiki',
@@ -12,7 +12,14 @@ export default defineConfig({
       editLink: {
         baseUrl: 'https://github.com/Rezdblz/portfolio-wiki-dimas/edit/main/',
       },
-      social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/Rezdblz' }],
+      social: [
+        { icon: 'github', label: 'GitHub', href: 'https://github.com/Rezdblz' },
+        {
+          icon: 'linkedin',
+          label: 'LinkedIn',
+          href: 'https://id.linkedin.com/in/dimas-ardhana',
+        },
+      ],
       sidebar: [
         { label: 'Home', link: '/' },
         { label: 'Profile', items: ['about', 'experience', 'skills'] },

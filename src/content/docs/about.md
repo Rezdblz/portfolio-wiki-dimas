@@ -3,23 +3,21 @@ title: About
 description: A short introduction to Dimas and a map of this wiki.
 ---
 
-Hi, I'm **Dimas**. This wiki is my portfolio: every project has its own page, and the technical notes link to each other wiki-style.
+Hi, I'm **Dimas**, a backend and DevOps engineer in the making. This wiki is my portfolio: every project has its own page, and the technical notes link to each other wiki-style.
 
-:::note[Work in progress]
-Anything marked **TODO** is a placeholder. Edit the files in `src/content/docs/` and run `npm run dev` to preview.
-:::
+I study Applied Informatics Engineering (D4) at Politeknik Elektronika Negeri Surabaya, and I spend most of my time on REST APIs, relational databases, and getting containerized services to ship through CI/CD without drama.
 
 ## At a glance
 
-- **Role:** TODO
-- **Focus:** TODO
-- **Location:** TODO
-- **Status:** TODO (e.g. open to opportunities)
+- **Role:** Backend & DevOps Engineer — Informatics Engineering student at PENS
+- **Focus:** RESTful APIs, PostgreSQL, Docker, and GitHub Actions CI/CD
+- **Location:** Cikarang, West Java — studying in Surabaya
+- **Status:** Open to internship and entry-level backend / DevOps roles
 
 ## Wiki map
 
-- [Projects](/portfolio-wiki-dimas/projects/) — things I have built, with the technical notes behind them
-- [Experience](/portfolio-wiki-dimas/experience/) — work, organizations, and education
-- [Skills](/portfolio-wiki-dimas/skills/) — languages, frameworks, and tools
-- [Notes](/portfolio-wiki-dimas/notes/) — loose write-ups and what I am learning
-- [Contact](/portfolio-wiki-dimas/contact/) — how to reach me
+- [Projects](/projects/) — things I have built, with the technical notes behind them
+- [Experience](/experience/) — work, organizations, and education
+- [Skills](/skills/) — languages, frameworks, and tools
+- [Notes](/notes/) — loose write-ups and what I am learning
+- [Contact](/contact/) — how to reach me
