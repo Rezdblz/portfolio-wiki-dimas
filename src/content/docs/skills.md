@@ -39,3 +39,42 @@ Group them; no scores needed. Link to the project pages that prove them.
 :::tip[Proof beats a list]
 Each skill should point at a [project](/projects/) that uses it.
 :::
+
+## From LinkedIn
+
+<!-- BEGIN linkedin:skills -->
+- .NET Core
+- Adobe Photoshop
+- Adobe Premiere Pro
+- Agile Application Development
+- Amazon Web Services (AWS)
+- Artificial Intelligence (AI)
+- ASP.NET Web API
+- Back-end Operations
+- Back-End Web Development
+- C (Programming Language)
+- C#
+- Continuous Integration and Continuous Delivery (CI/CD)
+- Database Design
+- Database Management System (DBMS)
+- DevOps
+- Docker
+- Editing
+- Event Production
+- Game Development
+- Game Programming
+- Git
+- GitHub
+- Google Docs
+- HTML
+- Japanese Culture
+- Java
+- Laravel
+- Microsoft Office
+- PHP
+- PostgreSQL
+- Python (Programming Language)
+- REST APIs
+- Software Development
+- Unity
+<!-- END linkedin:skills -->

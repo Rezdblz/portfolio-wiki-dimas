@@ -11,3 +11,6 @@ npm-debug.log*
 .env.production
 # macOS
 .DS_Store
+# LinkedIn data export (personal data, imported via scripts/linkedin_import.py)
+linkedin-export*/
+*linkedin*.zip

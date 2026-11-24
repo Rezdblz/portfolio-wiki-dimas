@@ -18,6 +18,16 @@ npm run preview
 - Notes: a new file in `src/content/docs/notes/`.
 - Sidebar order: `sidebar` in `astro.config.mjs`.
 
+## Autofill from LinkedIn
+
+On LinkedIn, go to **Settings & Privacy → Data privacy → Get a copy of your data → "Want something specific?" → Profile**, download the CSV zip, then run:
+
+```powershell
+py scripts/linkedin_import.py <path-to-export.zip or extracted-folder>
+```
+
+It rewrites only the `<!-- BEGIN linkedin:* --> … <!-- END linkedin:* -->` blocks in `experience.md` and `skills.md`; hand-written prose and project links stay. Keep the export out of git (already ignored: `*linkedin*.zip`).
+
 ## Deploy
 
 Every push to `main` runs `.github/workflows/deploy.yml`. One-time setup on GitHub: **Settings → Pages → Source = GitHub Actions**.
